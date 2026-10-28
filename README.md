@@ -45,6 +45,6 @@ this is a code block
 
 | Product | Features |
 | --- | --- |
-| App X | • Free tier <br> • Dark mode <br> • Cloud sync |
+| App X | • Free <br> • Dark mode <br> • Cloud sync |
 
 [@Sivezh M B]()
